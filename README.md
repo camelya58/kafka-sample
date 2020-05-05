@@ -1,6 +1,13 @@
 # kafka-sample
 The application demonstrates service of communication between producer and consumer microservices using [Apache Kafka](https://kafka.apache.org/downloads/).
 
+## Stack
+- Spring Boot
+- Apache Kafka 
+- Lombok
+- Swagger
+- Maven
+
 ## Step 1. 
 Install Apache Kafka for MacOS X.
 ```
